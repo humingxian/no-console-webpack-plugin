@@ -3,7 +3,7 @@ English
 ### Installation:
 Step 1:
 ```
-npm i no-console-webpack-plugin --dev-save
+npm i no-console-webpack-plugin --dev-save
 ```
 
 ### Usage:
@@ -33,7 +33,7 @@ If not, it means ignore all console output
 ### 安装
 第一步：
 ```
-npm i no-console-webpack-plugin --dev-save
+npm i no-console-webpack-plugin --dev-save
 ```
 
 ### 用法:
@@ -57,4 +57,4 @@ type代表在生产环境中你不想在console里输出的类型
 如果不传，则表示将会忽略所有的console输出
 
 ### 案列
-`type: ‘log’` 或者 `type: [‘log’, ‘error’, ‘warn’]`  或者 `new NoConsoleWebpackPlugin()`
+`type: ‘log’` 或者 `type: [‘log’, ‘error’, ‘warn’]`  或者`new NoConsoleWebpackPlugin()`
