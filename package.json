@@ -1,5 +1,5 @@
 {
-  "name": "no-console-plugins",
+  "name": "noconsole-webpack-plugins",
   "version": "1.0.0",
   "description": "no console.* for production mode",
   "main": "index.js",

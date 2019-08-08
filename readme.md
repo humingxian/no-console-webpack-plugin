@@ -1,9 +1,9 @@
-# no-console-webpack-plugin
+# noconsole-webpack-plugin
 English
 ### Installation:
 Step 1:
 ```
-npm i no-console-webpack-plugin --dev-save
+npm i noconsole-webpack-plugin --dev-save
 ```
 
 ### Usage:
@@ -11,7 +11,7 @@ Step 2:
 ```
 in webpack.config.prud.js
 
-const NoConsoleWebpackPlugin = require('no-console-webpack-plugin')
+const NoConsoleWebpackPlugin = require('noconsole-webpack-plugin')
 
 plugins: [
 	...,
@@ -41,7 +41,7 @@ npm i no-console-webpack-plugin --dev-save
 ```
 在 webpack.config.prud.js
 
-const NoConsoleWebpackPlugin = require('no-console-webpack-plugin')
+const NoConsoleWebpackPlugin = require('noconsole-webpack-plugin')
 
 plugins: [
 	...,
